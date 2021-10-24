@@ -1,0 +1,23 @@
+Index: src/components/Contents.tsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/components/Contents.tsx b/src/components/Contents.tsx
+new file mode 100644
+--- /dev/null	(date 1635086466454)
++++ b/src/components/Contents.tsx	(date 1635086466454)
+@@ -0,0 +1,12 @@
++import React from "react";
++
++function Contents (){
++
++    return (
++        <div>
++
++        </div>
++    )
++}
++
++export default Contents;
+\ No newline at end of file
